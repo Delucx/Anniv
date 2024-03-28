@@ -1,0 +1,58 @@
+/* .body {
+    display: flex;
+    justify-content: center;
+    transition: all 0.3s ease;
+}
+
+.body.scrolled {
+    font-size: 14px;
+    transform: scale(0.9);
+} */
+
+.hms {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 64px;
+    font-weight: bold;
+    color: #333;
+    margin-top: 20px;
+}
+
+.smaller-text {
+    font-size: 36px;
+    transition: font-size 0.5s;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+.container1 {
+    margin-top: 10%;
+}
+
+.logo1 {
+    margin-bottom: 20%;
+}
+
+.quote {
+    font-size: 32px;
+    color: #333;
+    margin-top: 20px;
+}
+
+@font-face {
+    font-family: 'Stardew-Valley';
+    src: url('Stardew_Valley.ttf');
+}
+
+.stardewValley {
+    font-family: 'Stardew-Valley';
+}
+
+.invite {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 32px;
+    color: #333;
+    margin-top: 20px;
+}
